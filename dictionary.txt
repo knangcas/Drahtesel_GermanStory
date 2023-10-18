@@ -13,7 +13,7 @@ Hauptstrasse	Main street / Main road
 
 Brot		Bread
 
-limaanlage	Air Conditioner
+klimaanlage	Air Conditioner
 
 Rammstein 	Rammstein is a German Neue Deutsche Härte band formed in Berlin in 1994.
 
